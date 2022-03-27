@@ -20,3 +20,9 @@ U-net segmentation of the liver on MRI data using FastAI and the CHAOS dataset. 
 ## Lesson 3: Radiomics Basics
 
 Exploration of utility of organ segmentations for further data analysis. We highlight the SimpleITK and Pyradiomics packages for further analysis of radiology segmentation data. 
+
+## Lesson 4, Part 1: Neural Networks Revisited with CT Data
+
+Lesson 4 revisits the neural network concepts of lesson 2 but places a greater emphasis on modeling details such as training data image augmentation, the learning rate, the loss function, the optimizer, and the neural network architecture. The first part of lesson 4 uses CHAOS CT data to investigate the impact of these varias aspects of neural network modeling on a simple classification neural network which is designed to classify whether or not an axial CT slice contains liver parenchyma. 
+
+## Lesson 4, Part 2: Neural Networks Revisited with MRI Data
