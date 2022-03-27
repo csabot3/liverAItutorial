@@ -16,3 +16,7 @@ U-net segmentation of the liver on CT data using FastAI and the CHAOS dataset.
 ## Lesson 2, Part 2: Liver Segmentation on MRI
 
 U-net segmentation of the liver on MRI data using FastAI and the CHAOS dataset. Covers scenarios involving only segmenting the liver and scenarios with multi-organ segmentation.
+
+## Lesson 3: Radiomics Basics
+
+Exploration of utility of organ segmentations for further data analysis. We highlight the SimpleITK and Pyradiomics packages for further analysis of radiology segmentation data. 
