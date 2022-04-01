@@ -5,10 +5,6 @@ This is a tutorial for working with radiology data and AI models of the liver wh
 
 Basics of working with DICOMs in Python.
 
-## Lesson 2: Liver Segmentation
-
-U-net segmentation of the liver on CT and MRI using the CHAOS dataset and FastAI. Divided into 2 parts to separately cover CT and MRI segmentation.
-
 ## Lesson 2, Part 1: Liver Segmentation on CT
 
 U-net segmentation of the liver on CT data using FastAI and the CHAOS dataset.
